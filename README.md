@@ -8,19 +8,19 @@ Undergrad lists department or major and university. Current job lists role and e
 
 | Name | Undergrad | Current job |
 | --- | --- | --- |
-| Fahim Rajit Hossain Shwadhin | Electrical and Electronic Engineering, Bangladesh Army University of Engineering and Technology | — |
+| Fahim Rajit Hossain Shwadhin | Electrical and Electronic Engineering, Bangladesh Army University of Engineering and Technology | AI Engineer |
 | Arnab Chowdhury | Civil Engineering, Bangladesh University of Engineering and Technology | Lecturer, University of Asia Pacific |
 | Md. Arman Hassan | Mechanical Engineering, Bangladesh University of Engineering and Technology | Junior Mechanical Engineer, BRTC, Bangladesh University of Engineering and Technology |
-| Tahiatun Nahar Juthi | Department to be confirmed, Bangladesh University of Engineering and Technology | — |
+| Tahiatun Nahar Juthi | Material and Metallurgical Engineering, Bangladesh University of Engineering and Technology | — |
 | Turja Roy | Physics, University of Texas at Arlington | — |
 | Ahnaf Islam Rakin | Mechanical and Production Engineering, Islamic University of Technology | — |
-| Adnan Bin Alamgir | Major to be confirmed, Harvard University | — |
-| Hasnat Mohammad Nayeem | Department to be confirmed, University of Dhaka (affiliation update pending) | — |
+| Adnan Bin Alamgir | Harvard University | — |
+| Hasnat Mohammad Nayeem | Electrical and Electronics Engineering ,Islamic University of Technology | MSc at Department of Physics, University of Dhaka |
 | Imdadullah Raji | Mechanical Engineering, Bangladesh University of Engineering and Technology | — |
 | Mohtasiba Hossain | Computer Science and Engineering, Islamic University of Technology | — |
 | Nublat Hafsa Nidhi | Major to be confirmed, Independent University, Bangladesh | — |
-| Ishmam Mostafa | Department to be confirmed, Bangladesh University of Engineering and Technology | — |
-| Hritom Sarker Oyon | School of Physical and Mathematical Sciences (major to be confirmed), Nanyang Technological University | — |
+| Ishmam Mostafa | Architecture, Bangladesh University of Engineering and Technology | — |
+| Hritom Sarker Oyon | School of Physical and Mathematical Sciences, Nanyang Technological University | — |
 | Labib Bin Azad | Robotics and Mechatronics Engineering, University of Dhaka | — |
 
 ### Public profiles and affiliation references
