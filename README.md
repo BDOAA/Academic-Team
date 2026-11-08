@@ -4,28 +4,29 @@
 
 The academic team supports BDOAA through coaching, training camps, problem setting, assessment and team preparation.
 
-Affiliations reflect team records and verified updates. Details marked **To be confirmed** are awaiting an update.
+Undergraduate entries list department or major and university; employed graduates list role and organisation. Affiliations reflect team records and verified updates. Details marked **To be confirmed** are awaiting an update.
 
-| Name | Current affiliation | Department / school / programme |
-| --- | --- | --- |
-| Fahim Rajit Hossain Shwadhin | To be confirmed | Electrical and Electronic Engineering — academic background (BAUET) |
-| Arnab Chowdhury | University of Asia Pacific | Civil Engineering |
-| Md. Arman Hassan | BRTC, Bangladesh University of Engineering and Technology (BUET) | Mechanical Engineering |
-| Tahiatun Nahar Juthi | Bangladesh University of Engineering and Technology (BUET) | To be confirmed |
-| Turja Roy | University of Texas at Arlington | Physics |
-| Ahnaf Islam Rakin | Islamic University of Technology (IUT) | Mechanical and Production Engineering |
-| Adnan Bin Alamgir | Harvard University | To be confirmed |
-| Hasnat Mohammad Nayeem | University of Dhaka — team record; update pending | To be confirmed |
-| Imdadullah Raji | Bangladesh University of Engineering and Technology (BUET) | Mechanical Engineering |
-| Mohtasiba Hossain | Islamic University of Technology (IUT) | Computer Science and Engineering |
-| Nublat Hafsa Nidhi | Independent University, Bangladesh (IUB); CASSA | To be confirmed |
-| Ishmam Mostafa | Bangladesh University of Engineering and Technology (BUET) | To be confirmed |
-| Hritom Sarker Oyon | Nanyang Technological University, Singapore | School of Physical and Mathematical Sciences |
-| Labib Bin Azad | University of Dhaka | Robotics and Mechatronics Engineering |
+| Name | Undergrad |
+| --- | --- |
+| Fahim Rajit Hossain Shwadhin | Electrical and Electronic Engineering, Bangladesh Army University of Engineering and Technology |
+| Arnab Chowdhury | Lecturer, University of Asia Pacific |
+| Md. Arman Hassan | Junior Mechanical Engineer, BRTC, Bangladesh University of Engineering and Technology |
+| Tahiatun Nahar Juthi | Department to be confirmed, Bangladesh University of Engineering and Technology |
+| Turja Roy | Physics, University of Texas at Arlington |
+| Ahnaf Islam Rakin | Mechanical and Production Engineering, Islamic University of Technology |
+| Adnan Bin Alamgir | Major to be confirmed, Harvard University |
+| Hasnat Mohammad Nayeem | Department to be confirmed, University of Dhaka (affiliation update pending) |
+| Imdadullah Raji | Mechanical Engineering, Bangladesh University of Engineering and Technology |
+| Mohtasiba Hossain | Computer Science and Engineering, Islamic University of Technology |
+| Nublat Hafsa Nidhi | Major to be confirmed, Independent University, Bangladesh |
+| Ishmam Mostafa | Department to be confirmed, Bangladesh University of Engineering and Technology |
+| Hritom Sarker Oyon | School of Physical and Mathematical Sciences (major to be confirmed), Nanyang Technological University |
+| Labib Bin Azad | Robotics and Mechatronics Engineering, University of Dhaka |
 
 ### Public profiles and affiliation references
 
 - [Fahim Rajit Hossain Shwadhin](https://rajit13.github.io/)
+- [Arnab Chowdhury — UAP faculty](https://ce.uap-bd.edu/faculty.html)
 - [Turja Roy — physics research](https://github.com/Turja-Roy/VUV-Optical-Coupler)
 - [Adnan Bin Alamgir — Harvard](https://hoffman.physics.harvard.edu/people.html)
 - [Imdadullah Raji](https://imdadullah-raji.github.io/)
