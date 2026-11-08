@@ -5,7 +5,7 @@
 The academic team supports BDOAA through coaching, training camps, problem setting, assessment and team preparation.
 
 
-| Name | Undergrad | Current job |
+| Name | Undergrad | Current affiliation |
 | --- | --- | --- |
 | Fahim Rajit Hossain Shwadhin | Electrical and Electronic Engineering, Bangladesh Army University of Engineering and Technology | AI Engineer |
 | Arnab Chowdhury | Civil Engineering, Bangladesh University of Engineering and Technology | Lecturer, University of Asia Pacific |
