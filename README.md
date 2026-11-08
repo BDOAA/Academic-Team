@@ -1,10 +1,9 @@
 # BDOAA Academic Team
 
-## Academic team, 2024–2026
+## Academic team
 
 The academic team supports BDOAA through coaching, training camps, problem setting, assessment and team preparation.
 
-Undergrad lists department or major and university. Current job lists role and employer for employed graduates. Affiliations reflect team records and verified updates. Details marked **To be confirmed** are awaiting an update.
 
 | Name | Undergrad | Current job |
 | --- | --- | --- |
